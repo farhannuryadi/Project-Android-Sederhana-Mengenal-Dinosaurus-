@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mengenal Dinosaurus</string>
+    <string name="dino_name">Nama Dinosaurus</string>
+    <string name="detail">Detail</string>
+    <string name="favorite">FAVORITE</string>
+    <string name="share">SHARE</string>
+    <string name="nama">Farhan Nuryadi</string>
+    <string name="email">farhannuryadi6@gmail.com</string>
+    <string name="profile">profile</string>
+    <string name="farhan_nuryadi">Create By: Farhan Nuryadi</string>
+</resources>
